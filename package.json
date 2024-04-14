@@ -1,13 +1,28 @@
 {
   "name": "automated-transaction-on-balance-threshold",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Node.js application to automate Ethereum transactions when wallet balances exceed a set threshold, utilizing the ethereum-wallet-interactor library.",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "ethereum",
+    "wallet",
+    "transaction",
+    "automation",
+    "web3",
+    "crypto",
+    "cryptocurrency",
+    "blockchain",
+    "finance",
+    "DeFi",
+    "smart-contracts",
+    "ETH",
+    "nodejs"
+  ],
+  "author": "Your Name <youremail@example.com>",
   "license": "ISC",
   "dependencies": {
     "ethereum-wallet-interactor": "^4.0.1",
