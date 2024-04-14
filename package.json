@@ -7,6 +7,11 @@
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akalnengn/automated-transaction-on-balance-threshold"
+  },
+  "homepage": "https://github.com/akalnengn/automated-transaction-on-balance-threshold#readme",
   "keywords": [
     "ethereum",
     "wallet",
@@ -22,7 +27,7 @@
     "ETH",
     "nodejs"
   ],
-  "author": "Your Name <youremail@example.com>",
+  "author": "akalnengn",
   "license": "ISC",
   "dependencies": {
     "ethereum-wallet-interactor": "^4.0.1",
